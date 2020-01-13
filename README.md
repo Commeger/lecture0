@@ -1,2 +1,2 @@
 # lecture0
-learning pythin
+learning python
